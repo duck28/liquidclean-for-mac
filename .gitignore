@@ -1,0 +1,10 @@
+.build/
+build/
+.swiftpm/
+.DS_Store
+.claude/
+*.xcuserstate
+*.dmg
+*.zip
+LiquidClean.app/
+.vscode/
